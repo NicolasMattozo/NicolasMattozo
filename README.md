@@ -48,6 +48,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React--61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,11 +65,9 @@
 <td width="50%">
 
 ### 🇺🇸 EN
-![React](https://img.shields.io/badge/React-Learning-61DAFB?style=flat-square&logo=react)
 ![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker)
 ![AI](https://img.shields.io/badge/AI-Learning-FF6F00?style=flat-square&logo=tensorflow)
 
-- React for modern front-end development
 - Docker for containerization and deployment
 - Artificial Intelligence fundamentals and applications
 
@@ -75,11 +75,9 @@
 <td width="50%">
 
 ### 🇧🇷 PT-BR
-![React](https://img.shields.io/badge/React-Aprendendo-61DAFB?style=flat-square&logo=react)
 ![Docker](https://img.shields.io/badge/Docker-Aprendendo-2496ED?style=flat-square&logo=docker)
 ![IA](https://img.shields.io/badge/IA-Aprendendo-FF6F00?style=flat-square&logo=tensorflow)
 
-- React para desenvolvimento front-end moderno
 - Docker para containerização e deploy
 - Fundamentos e aplicações de Inteligência Artificial
 
