@@ -1,167 +1,145 @@
-# 👋 Hi there, I'm **Nicolas**!
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Building+Reliable+Systems)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Nicolas%20Ciriaco&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Student%20%40%20UFPel&descSize=16&descAlignY=58&animation=fadeIn" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+reliable+%26+accessible+systems;Laravel+%2B+React+%2B+PostgreSQL;Open+to+collaborations+%26+open+source)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🎓 About me | Sobre mim
+## 👨‍💻 Sobre mim
 
-<table>
-<tr>
-<td width="50%">
+Desenvolvedor full-stack com foco em **sistemas confiáveis, acessíveis e com impacto real**. Atuo com produção, não só projetos de estudo — e isso muda a forma como penso código.
 
-### 🇺🇸 EN
-- 🎓 Computer Science student at **UFPEL**
-- 💼 Hands-on experience with real-world production systems
-- 🧠 Calm, analytical, and communicative profile
-- ⛪ Actively involved in church-related technology and social projects
+Fora do dev, estou envolvido em projetos de tecnologia e gestão para a igreja: sistema de membros, controle financeiro e grupos de jovens. Acredito que boa tecnologia serve pessoas.
 
-</td>
-<td width="50%">
-
-### 🇧🇷 PT-BR
-- 🎓 Estudante de Ciência da Computação na **UFPEL**
-- 💼 Experiência prática com sistemas em produção
-- 🧠 Perfil calmo, analítico e comunicativo
-- ⛪ Envolvimento ativo em projetos tecnológicos e sociais da igreja
-
-</td>
-</tr>
-</table>
+```
+📍 Pelotas, RS — Brazil
+🎓 Ciência da Computação · UFPel
+🔭 Atualmente aprendendo: Docker & IA aplicada
+💬 Pode me chamar para: sistemas institucionais, acessibilidade, open source
+```
 
 ---
 
-## 🚀 Technologies & Tools | Tecnologias e Ferramentas
-
-### Back-end
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React--61DAFB?style=for-the-badge&logo=react&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-
----
-
-## 🌱 Currently learning | Atualmente aprendendo
-
-<table>
-<tr>
-<td width="50%">
-
-### 🇺🇸 EN
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker)
-![AI](https://img.shields.io/badge/AI-Learning-FF6F00?style=flat-square&logo=tensorflow)
-
-- Docker for containerization and deployment
-- Artificial Intelligence fundamentals and applications
-
-</td>
-<td width="50%">
-
-### 🇧🇷 PT-BR
-![Docker](https://img.shields.io/badge/Docker-Aprendendo-2496ED?style=flat-square&logo=docker)
-![IA](https://img.shields.io/badge/IA-Aprendendo-FF6F00?style=flat-square&logo=tensorflow)
-
-- Docker para containerização e deploy
-- Fundamentos e aplicações de Inteligência Artificial
-
-</td>
-</tr>
-</table>
-
----
-
-## 📌 Interests & Projects | Interesses e Projetos
-
-<table>
-<tr>
-<td width="50%">
-
-### 🇺🇸 EN
-- 🏛️ Institutional and public-sector web systems
-- 📊 Reporting systems and dashboards
-- ⛪ Church management systems (finance, members, youth groups)
-- ♿ Web accessibility and inclusive design
-- 🤖 Applying AI to existing systems in a responsible way
-
-</td>
-<td width="50%">
-
-### 🇧🇷 PT-BR
-- 🏛️ Sistemas web institucionais e do setor público
-- 📊 Sistemas de relatórios e dashboards
-- ⛪ Sistemas de gestão para igrejas (financeiro, membros, juventude)
-- ♿ Acessibilidade web e design inclusivo
-- 🤖 Aplicação responsável de IA em sistemas existentes
-
-</td>
-</tr>
-</table>
-
----
-
-## 🤝 Collaboration | Colaboração
-
-<table>
-<tr>
-<td width="50%">
-
-### 🇺🇸 EN
-![Open Source](https://img.shields.io/badge/Open%20Source-Lover-3DA639?style=flat-square&logo=open-source-initiative)
-- Open to collaborating on academic or open-source projects
-- Interested in learning-oriented and impact-driven initiatives
-
-</td>
-<td width="50%">
-
-### 🇧🇷 PT-BR
-![Open Source](https://img.shields.io/badge/Open%20Source-Entusiasta-3DA639?style=flat-square&logo=open-source-initiative)
-- Aberto a colaborações em projetos acadêmicos ou open-source
-- Interesse em iniciativas com foco em aprendizado e impacto social
-
-</td>
-</tr>
-</table>
-
----
-
-## 📫 Contact | Contato
+## 🛠️ Stack
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-nicolasmattozo05@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasmattozo05@hotmail.com)
-[![GitLab](https://img.shields.io/badge/GitLab-Nicolas%20Ciriaco-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com)
+**Back-end**
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,postgres,c&theme=dark)](https://skillicons.dev)
+
+**Front-end**
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,html,css&theme=dark)](https://skillicons.dev)
+
+**DevOps & Ferramentas**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## ⚡ Personal note | Nota pessoal
+## 🚀 Projetos em Destaque
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3>⛪ Church Manager</h3>
+      <p>Sistema completo de gestão para igrejas — membros, finanças e grupos de jovens. Em produção real.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=laravel,postgres,tailwind&theme=dark" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>📊 Dashboard Institucional</h3>
+      <p>Painel de relatórios e visualização de dados para setor público/institucional. Foco em acessibilidade (WCAG).</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,php,postgres&theme=dark" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 IA em Sistemas Reais</h3>
+      <p>Explorando integração responsável de IA em sistemas já existentes — sem hype, com utilidade real.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+        &nbsp;<img src="https://img.shields.io/badge/Em_desenvolvimento-FFA500?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>♿ Acessibilidade Web</h3>
+      <p>Estudos e implementações práticas de design inclusivo seguindo diretrizes WCAG 2.1.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-**🇺🇸 EN:** *I value consistency, responsibility, and continuous learning.*
-
-**🇧🇷 PT-BR:** *Valorizo constância, responsabilidade e aprendizado contínuo.*
+> 💡 *Adicione os links dos seus repositórios nos títulos dos cards quando estiverem públicos.*
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=nicolasciriaco&color=blue&style=for-the-badge)
+## 📈 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/NicolasMattozo">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NicolasMattozo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true#gh-dark-mode-only" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NicolasMattozo&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true#gh-light-mode-only" />
+</a>
+&nbsp;
+<a href="https://github.com/NicolasMattozo">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMattozo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6#gh-dark-mode-only" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMattozo&layout=compact&theme=default&hide_border=true&langs_count=6#gh-light-mode-only" />
+</a>
+
+<br/>
+
+<a href="https://github.com/NicolasMattozo">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasMattozo&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasMattozo&theme=default&hide_border=true#gh-light-mode-only" />
+</a>
+
+<br/>
+
+<a href="https://github.com/NicolasMattozo">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasMattozo&theme=tokyo-night&hide_border=true&area=true#gh-dark-mode-only" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasMattozo&theme=default&hide_border=true&area=true#gh-light-mode-only" />
+</a>
+
+</div>
+
+---
+
+## 🤝 Aberto a colaborações
+
+Projetos acadêmicos, open source ou iniciativas com impacto social.
+Se for algo sobre **sistemas confiáveis, acessibilidade ou gestão para igrejas** → me chama!
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/nicolasmattozo05@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nicolasmattozo05@hotmail.com)
+&nbsp;
+[![GitLab](https://img.shields.io/badge/GitLab-@nicolasciriaco-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/nicolasciriaco)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer&animation=fadeIn" />
+
+<sub><i>Constância, responsabilidade e aprendizado contínuo.</i></sub>
 
 </div>
