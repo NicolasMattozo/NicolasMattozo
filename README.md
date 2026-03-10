@@ -88,15 +88,14 @@ Fora do dev, estou envolvido em projetos de tecnologia e gestão para a igreja: 
 <div align="center">
 
 <a href="https://github.com/NicolasMattozo">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NicolasMattozo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true#gh-dark-mode-only" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NicolasMattozo&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true#gh-light-mode-only" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NicolasMattozo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true#gh-dark-mode-only" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NicolasMattozo&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true#gh-light-mode-only" />
 </a>
 &nbsp;
 <a href="https://github.com/NicolasMattozo">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMattozo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6#gh-dark-mode-only" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMattozo&layout=compact&theme=default&hide_border=true&langs_count=6#gh-light-mode-only" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NicolasMattozo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6#gh-dark-mode-only" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NicolasMattozo&layout=compact&theme=default&hide_border=true&langs_count=6#gh-light-mode-only" />
 </a>
-
 <br/>
 
 <a href="https://github.com/NicolasMattozo">
