@@ -81,8 +81,6 @@ Fora do dev, estou envolvido em projetos de tecnologia e gestão para a igreja: 
   </tr>
 </table>
 
-> 💡 *Adicione os links dos seus repositórios nos títulos dos cards quando estiverem públicos.*
-
 ---
 
 ## 📈 GitHub Stats
